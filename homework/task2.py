@@ -2,7 +2,7 @@
 while True:
 
     total = int(input("Общее количество журавликов: "))
-    if total % 2 == 0:
+    if total % 6 == 0:
 
         break
 
