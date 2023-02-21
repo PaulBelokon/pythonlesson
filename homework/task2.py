@@ -13,5 +13,4 @@ numberKate = round(total // 1.5)
 numberSergey = numberKate // 4
 numberPetr = numberKate // 4
 
-print(
-    f" Ребенок Катя {numberKate},Ребенок Сережа {numberSergey},Ребенок Петя {numberPetr}")
+print( f" Ребенок Катя {numberKate},Ребенок Сережа {numberSergey},Ребенок Петя {numberPetr}")
